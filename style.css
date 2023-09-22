@@ -10,8 +10,10 @@ h1,p{
     margin-left: 40%;
     margin-right: 25%;
     margin-top: 10%;
+ }
+img{
     height: 300px;
     width: 300px;
     border-color: solid antiquewhite;
     border-width: 20px;
-    }
+}
