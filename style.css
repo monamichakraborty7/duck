@@ -6,7 +6,7 @@ h1,p{
     font-family: "Libre Baskerville", sans-serif;
     color: white;
 }
-img{
+.class{
     margin-left: 40%;
     margin-right: 25%;
     margin-top: 10%;
@@ -14,5 +14,4 @@ img{
     width: 300px;
     border-color: solid antiquewhite;
     border-width: 20px;
-    
-}
+    }
