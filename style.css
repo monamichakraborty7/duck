@@ -1,19 +1,18 @@
 html{
     background-color: black;
 }
-h1,p{
-    text-align: center;
-    font-family: "Libre Baskerville", sans-serif;
-    color: white;
+h1{
+    font-size:3rem;
 }
 .main{
-    margin-left: 40%;
-    margin-right: 25%;
-    margin-top: 10%;
- }
+    widh:50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family:"Libre-Baskerville", serif";
+}
 img{
-    height: 300px;
-    width: 300px;
-    border-color: solid antiquewhite;
-    border-width: 20px;
+   
+    border: 5px solid antiquewhite;
+     width:100%
 }
